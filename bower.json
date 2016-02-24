@@ -1,0 +1,22 @@
+{
+  "name": "gulp_sass_test",
+  "description": "test",
+  "main": "index.js",
+  "authors": [
+    "mjp"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Patronud/gulp_sass_test",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}
